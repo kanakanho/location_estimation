@@ -1,0 +1,1 @@
+<pandas.core.groupby.generic.DataFrameGroupBy object at 0x12077a440>
